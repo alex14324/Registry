@@ -1,0 +1,14 @@
+﻿  Registry.c
+C:\Users\Administrator\Desktop\MD\31.Registry\Registry\Registry\Registry.c(11,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Administrator\Desktop\MD\31.Registry\Registry\Registry\Registry.c(47,37): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
+C:\Users\Administrator\Desktop\MD\31.Registry\Registry\Registry\Registry.c(47,43): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
+C:\Users\Administrator\Desktop\MD\31.Registry\Registry\Registry\Registry.c(40,21): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\31.Registry\Registry\Registry\Registry.c(63,17): warning C4047: 'initializing': 'LSTATUS' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\31.Registry\Registry\Registry\Registry.c(119,28): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\31.Registry\Registry\Registry\Registry.c(119,28): warning C4024: 'CreateThread': different types for formal and actual parameter 2
+C:\Users\Administrator\Desktop\MD\31.Registry\Registry\Registry\Registry.c(119,59): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\31.Registry\Registry\Registry\Registry.c(119,59): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+C:\Users\Administrator\Desktop\MD\31.Registry\Registry\Registry\Registry.c(98,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\31.Registry\Registry\Registry\Registry.c(219,43): warning C4133: 'function': incompatible types - from 'PVOID *' to 'PBYTE *'
+C:\Users\Administrator\Desktop\MD\31.Registry\Registry\Registry\Registry.c(244,1): warning C4102: '_EndOfFunction': unreferenced label
+  Registry.vcxproj -> C:\Users\Administrator\Desktop\MD\31.Registry\Registry\x64\Debug\Registry.exe
